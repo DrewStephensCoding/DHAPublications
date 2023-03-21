@@ -1,12 +1,12 @@
 [
   {
     "PubID": 1,
-    "TypeOfIssuance": "DHA Interim Procedures Memorandum",
+    "Issuance": "DHA Interim Procedures Memorandum",
     "IssuanceNumber": "21-003",
     "Title": "Military Health System GENESIS Training",
     "Subject": "The MHS is transitioning to MHS GENESIS, the DOD’s modernized Electronic Health Record (EHR) system, to provide enhanced, secure technology to manage health information. While enterprise solution standards control the MHS GENESIS design across the entire MHS and are not specific to one site, the individual components are responsible for ensuring proposed MHS GENESIS end users are properly trained prior to being granted access to the EHR system.",
     "IssuanceDate": "02/22/2023",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2023/02/22/DHA-IPM-21-003"
   },
   {
     "PubID": 2,
@@ -15,7 +15,7 @@
     "Title": "Anatomic Gifts and Tissue Donation",
     "Subject": "Establishes the Defense Health Agency's procedures for organ and tissue donation. This applies to the donation of human organs and tissues, for transplantation, therapy, research, or education, pursuant to Section 1109(b) of Reference (1).",
     "IssuanceDate": "02/17/2023",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil"
   },
   {
     "PubID": 3,

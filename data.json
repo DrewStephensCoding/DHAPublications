@@ -6,7 +6,7 @@
     "Title": "Military Health System GENESIS Training",
     "Subject": "The MHS is transitioning to MHS GENESIS, the DOD’s modernized Electronic Health Record (EHR) system, to provide enhanced, secure technology to manage health information. While enterprise solution standards control the MHS GENESIS design across the entire MHS and are not specific to one site, the individual components are responsible for ensuring proposed MHS GENESIS end users are properly trained prior to being granted access to the EHR system.",
     "IssuanceDate": "02/22/2023",
-    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2023/02/22/DHA-IPM-21-003"
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2023/02/22/DHA-IPM-21-003"
   },
   {
     "PubID": 2,
@@ -78,7 +78,7 @@
     "Title": "Reliability Centered Maintenance Program",
     "Subject": "Establishes DHA's procedures for the implementation of a Reliability Centered Maintenance Program, including Condition Based Maintenance, for DHA sustained facilities.",
     "IssuanceDate": "12/30/2022",
-    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/12/30/DHA-AI-4000-04"
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/12/30/DHA-AI-4000-03"
   },
   {
     "PubID": 10,
@@ -132,7 +132,7 @@
     "Title": "Pandemic Stockpile Management",
     "Subject": "Establishes DHA's procedures to manage Pandemic Stockpiles, inventory management, and the accountability of stockpiles stored at military hospitals and clinics.",
     "IssuanceDate": "12/06/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/12/06/DHA-PM-6430-10"
   },
   {
     "PubID": 16,
@@ -141,7 +141,7 @@
     "Title": "Merit Promotion and Placement Plan",
     "Subject": "Establishes DHA's policies, responsibilities, and procedures for the selection of employees covered by merit promotion and in-service placement.",
     "IssuanceDate": "11/30/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/30/DHA-AI-1402-02"
   },
   {
     "PubID": 17,
@@ -150,7 +150,7 @@
     "Title": "Operational Medical Materiel Analysis Program",
     "Subject": "Establishes DHA's procedures for providing analytical support to the MILDEP in the management of operational assemblages.",
     "IssuanceDate": "11/30/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/30/DHA-PM-6430-01"
   },
   {
     "PubID": 18,
@@ -159,7 +159,7 @@
     "Title": "Mandatory Use of Defense Health Agency Enterprise (Off-Site) Teleradiology Services Contract by Military Medical Treatment Facilities",
     "Subject": "To instruct MTFs on the mandatory use of the DHA Enterprise Teleradiology Services Indefinite Delivery-Indefinite Quantity contract.",
     "IssuanceDate": "11/28/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/28/DHA-PI-6025-48"
   },
   {
     "PubID": 19,
@@ -168,7 +168,7 @@
     "Title": "Defense Health Agency Time-to-Hire",
     "Subject": "Establishes time-to-hire procedures within the DHA.",
     "IssuanceDate": "11/28/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/28/DHA-PM-22-012"
   },
   {
     "PubID": 20,
@@ -177,7 +177,7 @@
     "Title": "Birth Certificate and Birth Reporting Procedures",
     "Subject": "Establishes DHA's procedures for birth certificate and reporting at military medical treatment facilities.",
     "IssuanceDate": "11/18/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/18/DHA-AI-6025-11"
   },
   {
     "PubID": 21,
@@ -186,7 +186,7 @@
     "Title": "Standardized Leadership Board Requirements for all Defense Health Agency Aligned Facilities",
     "Subject": "Establishes DHA's procedures for Chain of Leadership Board requirements across the DHA enterprise to increase awareness of the DHA leadership structure and ensure standardization.",
     "IssuanceDate": "11/18/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/18/DHA-AI-5136-04"
   },
   {
     "PubID": 22,
@@ -195,7 +195,7 @@
     "Title": "Acquisition Authorities and Implementation of the Defense Acquisition System",
     "Subject": "Establishes DHA's procedures to implement acquisition authorities.",
     "IssuanceDate": "11/15/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/15/DHA-IPM-22-002"
   },
   {
     "PubID": 23,
@@ -204,7 +204,7 @@
     "Title": "Education, Training, and Clinical Readiness Activities in the Military Health System",
     "Subject": "Establishes DHA's procedures to manage education, training, and clinical readiness activities across the MHS.",
     "IssuanceDate": "11/14/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/14/DHA-PI-1025-02"
   },
   {
     "PubID": 24,
@@ -213,7 +213,7 @@
     "Title": "Standard Form 182 Administration",
     "Subject": "Establishes DHA's procedures for the Administration of Standard Form (SF) 182, “Authorization, Agreement, and Certification of Training.”",
     "IssuanceDate": "11/03/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/03/DHA-AI-1025-02"
   },
   {
     "PubID": 25,
@@ -222,7 +222,7 @@
     "Title": "Delegation of Authority and Assignment of Responsibility for Administration and Management of Direct Care",
     "Subject": "Establishes DHA's delegations of authority and responsibility for the management of MTFs and DTFs transferred from Military Departments to control of the DHA.",
     "IssuanceDate": "11/03/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/11/03/DHA-AI-5136-03"
   },
   {
     "PubID": 26,
@@ -231,7 +231,7 @@
     "Title": "Competitive Programs",
     "Subject": "Establishes DHA's procedures for the Workforce Development Branch program directives.",
     "IssuanceDate": "10/27/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/10/27/DHA-AI-1430-01"
   },
   {
     "PubID": 27,
@@ -240,7 +240,7 @@
     "Title": "Defense Health Agency Cancer Registry Program",
     "Subject": "Creates DHA’s procedures to establish common and uniform guidelines, standards, and procedures for all DOD military medical treatment facilities providing oncological medical services to MHS beneficiaries.",
     "IssuanceDate": "10/19/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/10/19/DHA-AI-6025-14"
   },
   {
     "PubID": 28,
@@ -249,7 +249,7 @@
     "Title": "180-Day Waiver Delegation Update",
     "Subject": "Delegates the authority to approve the appointment of retired members of the Armed Forces, within 180 days after retirement, to Market/Small and Market Stand-alone Organizations/Defense Health Agency Regions Directors.",
     "IssuanceDate": "10/18/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/10/18/DHA-PM-22-011"
   },
   {
     "PubID": 29,
@@ -258,7 +258,7 @@
     "Title": "Authorized Nonlethal Weapons and Devices for Defense Health Agency Security Guards",
     "Subject": "Identifies all approved nonlethal weapons and devices authorized for use by DHA security guards.",
     "IssuanceDate": "09/29/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/09/29/DHA-PM-22-013"
   },
   {
     "PubID": 30,
@@ -267,7 +267,7 @@
     "Title": "Walk-in Contraception Services at Military Medical Treatment Facilities",
     "Subject": "Establishes DHA's procedures for implementation of walk-in contraception services at all Military Medical Treatment Facilities for Active Duty and eligible beneficiaries of the MHS.",
     "IssuanceDate": "09/27/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/09/27/DHA-AI-6025-09"
   },
   {
     "PubID": 31,
@@ -276,7 +276,7 @@
     "Title": "Defense Medical Logistics Standard Support–Volume 9, Financial Procedures",
     "Subject": "Establishes DHA's instructions for using the Defense Medical Logistics Standard Support application.",
     "IssuanceDate": "09/27/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/09/27/DHA-TM-6430-02-Vol-9"
   },
   {
     "PubID": 32,
@@ -285,7 +285,7 @@
     "Title": "The Care and Use of Animals in DOD Research, Development, Test, and Evaluation (RDT&E) or Training Programs",
     "Subject": "Establishes the procedures to set forth the policies for care and use of animals used in Research, Development, Test, and Evaluation that is conducted at any location by DOD programs.",
     "IssuanceDate": "09/01/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/09/01/DHA-MSR-6025-02"
   },
   {
     "PubID": 33,
@@ -294,7 +294,7 @@
     "Title": "Antiterrorism Program",
     "Subject": "Establishes DHA's procedures to update responsibilities and provide direction for the implementation and establishment of the DHA Antiterrorism Program.",
     "IssuanceDate": "09/01/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/09/01/DHA-AI-078"
   },
   {
     "PubID": 34,
@@ -303,7 +303,7 @@
     "Title": "Controlled Medical Items Management for Medical Logistics Areas",
     "Subject": "Establishes DHA's procedures to provide policy and procedures necessary for managing controlled medical items within DHA's Medical Logistics departments.",
     "IssuanceDate": "08/29/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/29/DHA-AI-6430-08"
   },
   {
     "PubID": 35,
@@ -312,7 +312,7 @@
     "Title": "Lifecycle Management Services Information Technology Asset Management",
     "Subject": "Establishes DHA's procedures for implementing and managing Information Technology.",
     "IssuanceDate": "08/19/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/19/DHA-AI-8220-01"
   },
   {
     "PubID": 36,
@@ -321,7 +321,7 @@
     "Title": "Sustainment Management System (SMS) BUILDER Site Support for Real Property Assets",
     "Subject": "Establishes DHA's procedures for collecting and managing data in the DHA SMS-BUILDER database.",
     "IssuanceDate": "08/18/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/18/DHA-PI-4270-01"
   },
   {
     "PubID": 37,
@@ -330,7 +330,7 @@
     "Title": "Consolidated Department of Defense Coronavirus Disease 2019 Force Health Protection Guidance",
     "Subject": "Provides supplemental, ongoing guidance in response to the COVID-19 pandemic.",
     "IssuanceDate": "08/18/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/18/DHA-Policy-Memo-22-006"
   },
   {
     "PubID": 38,
@@ -339,7 +339,7 @@
     "Title": "Personnel Transferred or Assigned to the Defense Health Agency from the Military Departments",
     "Subject": "Provides guidance on the use of military members assigned to the DHA and civilian employees who have been transferred to DHA from a Military Department.",
     "IssuanceDate": "08/14/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/14/DHA-PM-22-009"
   },
   {
     "PubID": 39,
@@ -348,7 +348,7 @@
     "Title": "Suicide Risk Care Pathway for Adult Patients in the Defense Health Agency",
     "Subject": "Establishes DHA's procedures to screen and comprehensively assess patients in the DHA for suicide risk.",
     "IssuanceDate": "08/09/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/09/DHA-AI-6025-06"
   },
   {
     "PubID": 40,
@@ -357,7 +357,7 @@
     "Title": "Permanent Change of Station for Civilian Employees",
     "Subject": "Establishes DHA's procedures for payment of travel, transportation, and relocation expenses for new appointees and employees transferred in the interest of the Government.",
     "IssuanceDate": "08/09/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/09/DHA-AI-1241-01"
   },
   {
     "PubID": 41,
@@ -366,7 +366,7 @@
     "Title": "Clinical Investigation Program in Military Medical Treatment Facilities",
     "Subject": "Establishes procedures for the funding and administration of the CIP within DOD MTFs.",
     "IssuanceDate": "08/05/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/05/DHA-PI-3200-02"
   },
   {
     "PubID": 42,
@@ -375,7 +375,7 @@
     "Title": "Photography, Videotaping, Filming, Recording, and Imaging of Patients, Visitors, and Staff",
     "Subject": "Establishes DHA's policies concerning the production of still images, videos, and audio recordings of patients, visitors, and staff..",
     "IssuanceDate": "08/05/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/08/05/DHA-AI-6000-02"
   },
   {
     "PubID": 43,
@@ -384,7 +384,7 @@
     "Title": "Defense Medical Logistics Standard Support-Facilities Management, Volume 6: Preventive Maintenance Schedule Module",
     "Subject": "Establishes DHA's procedures for managing data in the MHS Computer Aided Facility Management/Computerized Maintenance Management System of record.",
     "IssuanceDate": "07/22/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/07/22/DHA-TM-4165-01-Volume-6"
   },
   {
     "PubID": 44,
@@ -393,7 +393,7 @@
     "Title": "Defense Medical Logistics Standard Support (DMLSS)-Volume 1, General and Administrative",
     "Subject": "Provides medical logistics personnel and other DMLSS users with the technical guidance procedures to carry out the medical logistics support mission.",
     "IssuanceDate": "07/01/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/07/01/DHA-TM-6430-02-Volume-1"
   },
   {
     "PubID": 45,
@@ -402,7 +402,7 @@
     "Title": "Defense Health Agency  Medical Logistics (MEDLOG) Joint Operations Center",
     "Subject": "Establishes the DHA Medical Logistics Joint Operations Center.",
     "IssuanceDate": "07/01/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/07/01/DHA-AI-6430-09"
   },
   {
     "PubID": 46,
@@ -411,7 +411,7 @@
     "Title": "Pay Setting Policy",
     "Subject": "Establishes DHA civilian personnel policies and procedures for pay setting determinations in instances where law, regulation, or other policy permits discretion.",
     "IssuanceDate": "07/01/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/07/01/DHA-AI-1340-01"
   },
   {
     "PubID": 47,
@@ -420,7 +420,7 @@
     "Title": "Incentives to Attract and Retain Civilian Employees",
     "Subject": "Establishes procedures to assign responsibilities and establishes procedures for the DHA’s recruitment, retention, and relocation incentives that may be used to attract and retain top-quality civilian employees.",
     "IssuanceDate": "07/01/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/07/01/DHA-AI-1402-01"
   },
   {
     "PubID": 48,
@@ -429,7 +429,7 @@
     "Title": "Clinical Quality Management in the Military Health System",
     "Subject": "Ensures an orderly and seamless transition of the administration and management of military hospitals and clinics from the Military Departments to the DHA.",
     "IssuanceDate": "06/27/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/06/27/DHA-PM-6025-13-Volumes-1-7"
   },
   {
     "PubID": 49,
@@ -438,7 +438,7 @@
     "Title": "DOD Hazardous Food and Nonprescription Drug Recall System",
     "Subject": "Establishes DHA's procedures to be followed when recalls are issued for hazardous food, nonprescription drugs, dietary supplements, nonprescription medical devices, health and beauty aid items, and pet food which may be in military accounts.",
     "IssuanceDate": "06/27/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/06/27/DHA-MSR-6025-01"
   },
   {
     "PubID": 50,
@@ -447,7 +447,7 @@
     "Title": "Department of Defense Coronavirus Disease 2019 Vaccination Program Implementation",
     "Subject": "Establishes DHA's procedures to implement instructions, assign responsibilities, and prescribe procedures for the DOD’s COVID-19 Vaccination Program.",
     "IssuanceDate": "06/16/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/06/16/DHA-IPM-20-004"
   },
   {
     "PubID": 51,
@@ -456,7 +456,7 @@
     "Title": "Accreditation and Certification Compliance Management for Defense Health Agency-Assigned Facilities",
     "Subject": "Provides supplemental guidance on facility-related issues that support, and will be coordinated within, the DHA’s procedures for the accreditation and certification compliance management program.",
     "IssuanceDate": "06/13/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/06/13/DHA-PM-4140-01"
   },
   {
     "PubID": 52,
@@ -465,7 +465,7 @@
     "Title": "Defense Medical Logistics Standard Support (DMLSS) - Volume 7, Equipment Management and Equipment Maintenance",
     "Subject": "Provides medical logistics personnel and other DMLSS users with the technical guidance procedures to carry out the medical logistics support mission.",
     "IssuanceDate": "06/08/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/06/08/DHA-TM-6430-02-Volume-7"
   },
   {
     "PubID": 53,
@@ -474,7 +474,7 @@
     "Title": "Defense Medical Logistics Standard Support (DMLSS) – Volume 10, DMLSS Reports",
     "Subject": "Provides medical logistics personnel and other DMLSS users with the technical guidance procedures to carry out the medical logistics support mission.",
     "IssuanceDate": "06/08/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/06/08/DHA-TM-6430-02-Volume-10"
   },
   {
     "PubID": 54,
@@ -483,7 +483,7 @@
     "Title": "Defense Medical Logistics Standard Support (DMLSS) – Volume 8, “Assemblage Management”",
     "Subject": "Provides medical logistics personnel and other DMLSS users with the technical guidance procedures to carry out the medical logistics support mission.",
     "IssuanceDate": "05/26/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/05/26/DHA-TM-6430-02-Volume-8"
   },
   {
     "PubID": 55,
@@ -492,7 +492,7 @@
     "Title": "Defense Medical Logistics Standard Support (DMLSS) - Volume 4, Inventory Management",
     "Subject": "Provides medical logistics personnel and other DMLSS users with the technical guidance procedures to carry out the medical logistics support mission.",
     "IssuanceDate": "05/20/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/05/20/DHA-TM-6430-02-Volume-4"
   },
   {
     "PubID": 56,
@@ -501,7 +501,7 @@
     "Title": "The Military Health System Informatics Steering Committee Structure",
     "Subject": "Establishes DHA's procedures to establish and operate Informatics Steering Committees.",
     "IssuanceDate": "05/19/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/05/19/DHA-PI-8140-02"
   },
   {
     "PubID": 57,
@@ -510,7 +510,7 @@
     "Title": "Graduate Medical Education",
     "Subject": "Establishes DHA's procedures for the oversight, establishment, and governance of Graduate Medical Education programs.",
     "IssuanceDate": "05/18/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/05/18/DHA-PI-102504"
   },
   {
     "PubID": 58,
@@ -519,7 +519,7 @@
     "Title": "Defense Medical Logistics Standard Support (DMLSS) – Volume 5, Inventory and Quality Control",
     "Subject": "Provides medical logistics personnel and other DMLSS users with the technical guidance procedures to carry out the medical logistics support mission.",
     "IssuanceDate": "05/10/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/05/10/DHA-TM-6430-02-Volume-5"
   },
   {
     "PubID": 59,
@@ -528,7 +528,7 @@
     "Title": "Financial Liability Investigation of Property Loss",
     "Subject": "Establishes DHA's Financial Liability Investigation of Property Loss procedures for documenting the loss, damage, destruction, or theft of property.",
     "IssuanceDate": "05/09/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/05/09/DHA-AI-4000-02"
   },
   {
     "PubID": 60,
@@ -537,7 +537,7 @@
     "Title": "Defense Health Agency Workplace Guidance for Final Reentry of Civilian Personnel",
     "Subject": "Outlines DHA’s guidance for the final reentry of civilian personnel to the workplace.",
     "IssuanceDate": "05/04/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/05/04/DHA-Policy-Memo-22-004"
   },
   {
     "PubID": 61,
@@ -546,7 +546,7 @@
     "Title": "Research Integrity and Misconduct Policy and Procedures",
     "Subject": "Establishes DHA's procedures to authorize investigation of alleged research misconduct in Public Health Service supported research.",
     "IssuanceDate": "04/29/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/29/DHA-AI-3200-02"
   },
   {
     "PubID": 62,
@@ -555,7 +555,7 @@
     "Title": "Research Subject Compensation",
     "Subject": "Establishes DHA's responsibilities, procedures, and guidance for the compensation of study subjects for their participation in human subject research within the DHA's research programs.",
     "IssuanceDate": "04/28/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/28/DHA-AI-3200-01"
   },
   {
     "PubID": 63,
@@ -564,7 +564,7 @@
     "Title": "Energy and Water Resource Management",
     "Subject": "Establishes DHA's procedures for the management of energy and water resources consumed at all DHA components.",
     "IssuanceDate": "04/28/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/28/DHA-PI-4000-03"
   },
   {
     "PubID": 64,
@@ -573,7 +573,7 @@
     "Title": "Medical Logistics (MEDLOG) Customer Support Program",
     "Subject": "Establishes DHA's procedures to provide a direct channel of communication between the DHA MEDLOG Directorate, Direct Reporting Organization (DRO) MEDLOG accounts, DRO Directors, Direct Reporting Market Directors, and assist DHA MEDLOG accounts in executing the MEDLOG mission across the Enterprise.",
     "IssuanceDate": "04/27/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/27/DHA-PM-6430-09"
   },
   {
     "PubID": 65,
@@ -582,7 +582,7 @@
     "Title": "Personnel Security Program",
     "Subject": "Assigns responsibilities and prescribes procedures for administering the DHA Personnel Security Program.",
     "IssuanceDate": "04/27/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/27/DHA-AI-5200-04"
   },
   {
     "PubID": 66,
@@ -591,7 +591,7 @@
     "Title": "Safety Program",
     "Subject": "Establishes DHA’s procedures and assigns responsibilities for the implementation, sustainment, operation, and maintenance of the DHA Safety Program.",
     "IssuanceDate": "04/25/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/25/DHA-AI-6055-01"
   },
   {
     "PubID": 67,
@@ -600,7 +600,7 @@
     "Title": "Authority to Administer Military Construction and Repair for DHA Facilities",
     "Subject": "Establishes DHA's authority to administer design, repair, and construction programs for facilities within the DHA.",
     "IssuanceDate": "04/15/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/15/DHA-AI-4270-01"
   },
   {
     "PubID": 68,
@@ -609,7 +609,7 @@
     "Title": "Defense Medical Logistics Standard Support (DMLSS) - Volume 6, Customer Applications",
     "Subject": "Provides medical logistics personnel and other DMLSS users with the technical guidance procedures to carry out the medical logistics support mission.",
     "IssuanceDate": "04/11/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/11/DHA-TM-6430-02-Vol-6"
   },
   {
     "PubID": 69,
@@ -618,7 +618,7 @@
     "Title": "Defense Medical Logistics Standard Support (DMLSS) - Volume 2, Systems Administration",
     "Subject": "Provides medical logistics personnel and other DMLSS users with the technical guidance procedures to carry out the medical logistics support mission.",
     "IssuanceDate": "04/07/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/07/DHA-TM-6430-02-Vol-2"
   },
   {
     "PubID": 70,
@@ -627,7 +627,7 @@
     "Title": "Publication System",
     "Subject": "Promulgates guidance, assigns responsibilities, and prescribes procedures for the development, coordination, approval, and review of the DHA's Publication System.",
     "IssuanceDate": "04/01/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/04/01/DHA-PI-502101"
   },
   {
     "PubID": 71,
@@ -636,7 +636,7 @@
     "Title": "Processes and Procedures for Implementation of Standardized Perinatal Training",
     "Subject": "Establishes DHA's procedures to describe standard processes and criteria for developing and sustaining comprehensive systems to provide, assess, and monitor standardized training for perinatal healthcare personnel providing services to patients/birth parents and their infants at military medical treatment facilities.",
     "IssuanceDate": "03/25/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/03/25/DHA-PI-6025-16"
   },
   {
     "PubID": 72,
@@ -645,7 +645,7 @@
     "Title": "Medical Logistics Temperature Sensitive Medical Products Management",
     "Subject": "Establishes DHA’s procedures for handling and storing Temperature Sensitive Medical Products.",
     "IssuanceDate": "03/22/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/03/22/DHA-4140-01"
   },
   {
     "PubID": 73,
@@ -654,7 +654,7 @@
     "Title": "Coordination of Remedies for Fraud and Corruption Related to Procurement Activities",
     "Subject": "Establishes the Office of General Counsel as DHA’s centralized organization for the monitoring and coordinating of remedies in all significant procurement fraud cases.",
     "IssuanceDate": "02/28/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/02/28/DHA-AI-7050-01"
   },
   {
     "PubID": 74,
@@ -663,7 +663,7 @@
     "Title": "Joint Deployment Formulary (JDF)",
     "Subject": "Establishes DHA's procedures to provide guidance for the utilization of the Joint Deployment Formulary.",
     "IssuanceDate": "01/26/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/01/26/DHA-PM-6430-08"
   },
   {
     "PubID": 75,
@@ -672,7 +672,7 @@
     "Title": "Standardization of Depression and Suicide Risk Screening in Primary Care During and Subsequent to the Coronavirus Disease 2019 Pandemic",
     "Subject": "Establishes DHA's procedures to screen for depression and suicide risk in the Military Health System during and subsequent to the COVID-19 pandemic.",
     "IssuanceDate": "01/25/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/01/25/DHA-AI-6025-04"
   },
   {
     "PubID": 76,
@@ -681,7 +681,7 @@
     "Title": "Emergency Power, Standby Generators, and Stored Energy Power Systems",
     "Subject": "Establishes DHA's procedures for identifying when, where, and what type of emergency power and/or standby generators are acceptable and appropriate for use within DHA-assigned facilities.",
     "IssuanceDate": "01/05/2022",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2022/01/05/DHA-PI-418001"
   },
   {
     "PubID": 77,
@@ -690,7 +690,7 @@
     "Title": "DOD Health Record Lifecycle Management, Volume 2: Outpatient Record Components and Dental Records",
     "Subject": "Establishes DHA's procedures to provide guidelines for the lifecycle management of the DOD Health Record.",
     "IssuanceDate": "12/16/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/12/16/DHA-PM-6025-02-Volume-2"
   },
   {
     "PubID": 78,
@@ -699,7 +699,7 @@
     "Title": "Guidance for the Identification, Treatment, and Care of Human Immunodeficiency Virus (HIV) among Persons Infected with HIV",
     "Subject": "Establishes DHA's procedures for the clinical management of HIV-infected Service members.",
     "IssuanceDate": "12/10/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/12/10/DHA-PI-6485-01"
   },
   {
     "PubID": 79,
@@ -708,7 +708,7 @@
     "Title": "Defense Medical Information System (DMIS) Identifier (ID) Management Procedures",
     "Subject": "Establishes procedures for DMIS ID table maintenance within the Military Health System.",
     "IssuanceDate": "12/09/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/12/09/DHA-PI-6010-03"
   },
   {
     "PubID": 80,
@@ -717,7 +717,7 @@
     "Title": "Defense Medical Logistics Standard Support-Facilities Management (DMLSS-FM) - Volume 7,  Work Request Module",
     "Subject": "Establishes DHA's procedures for managing data in the Military Health System’s Computer Aided Facility Management and Computerized Maintenance Management System of record.",
     "IssuanceDate": "12/09/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/12/09/DHA-TM-4615-01-Volume-7"
   },
   {
     "PubID": 81,
@@ -726,7 +726,7 @@
     "Title": "Medical Logistics Inventory Management",
     "Subject": "Establishes DHA's procedures for effective inventory management.",
     "IssuanceDate": "12/08/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/12/08/DHA-AI-6430-07"
   },
   {
     "PubID": 82,
@@ -735,7 +735,7 @@
     "Title": "Construction in Progress",
     "Subject": "Establishes DHA's procedures for managing the Military Health System’s construction in progress.",
     "IssuanceDate": "12/08/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/12/08/DHA-AI-7040-02"
   },
   {
     "PubID": 83,
@@ -744,7 +744,7 @@
     "Title": "Autopsies During Coronavirus 2019 Pandemic",
     "Subject": "Procedures for conducting post-mortem autopsies during the COVID-19 pandemic response.",
     "IssuanceDate": "12/07/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/12/07/DHA-PI-6000-11"
   },
   {
     "PubID": 84,
@@ -753,7 +753,7 @@
     "Title": "Defense Health Agency Terms of Reference",
     "Subject": "Establishes the official organizational alignment and functional distribution of responsibilities for accomplishing the missions assigned to the DHA.",
     "IssuanceDate": "11/24/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/11/24/DHA-AI-5136-01"
   },
   {
     "PubID": 85,
@@ -762,7 +762,7 @@
     "Title": "TRICARE Medical Plan Enrollment Instructions and Management Responsibilities",
     "Subject": "Establishes DHA’s enrollment/disenrollment instructions and management responsibilities in the Military Health System.",
     "IssuanceDate": "11/24/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/11/24/DHA-PI-6000-12"
   },
   {
     "PubID": 86,
@@ -771,7 +771,7 @@
     "Title": "DOD Health Record Lifecycle Management, Volume 1: General Principles, Custody and Control, and Inpatient Records",
     "Subject": "Establishes DHA’s procedures to provide guidelines for the lifecycle management of the DOD Health Record.",
     "IssuanceDate": "11/23/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/11/23/DHA-PM-6025-02-Volume-1"
   },
   {
     "PubID": 87,
@@ -780,7 +780,7 @@
     "Title": "Defense Health Program General Equipment",
     "Subject": "Establishes DHA's procedures for managing the Military Health System’s general equipment.",
     "IssuanceDate": "11/17/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/11/17/DHA-PI-7040-01"
   },
   {
     "PubID": 88,
@@ -789,7 +789,7 @@
     "Title": "Defense Medical Logistics Standard Support - Facilities Management (DMLSS-FM) - Volume 5, Preventive Maintenance (PM) Procedures Module",
     "Subject": "Establishes DHA's procedures for managing PM data in the Military Health System’s DMLSS-FM.",
     "IssuanceDate": "11/16/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/11/16/DHA-TM-4165-01-Volume-5"
   },
   {
     "PubID": 89,
@@ -798,7 +798,7 @@
     "Title": "Routine Adult Transthoracic Echocardiogram (TTE) Standards for all Military Medical Treatment Facilities (MTFs)",
     "Subject": "Establishes DHA's standards for performance of routine adult TTE across military hospitals and clinics.",
     "IssuanceDate": "11/04/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/11/04/DHA-PI-6025-42"
   },
   {
     "PubID": 90,
@@ -807,7 +807,7 @@
     "Title": "Policy Memorandum on the Defense Health Agency Coronavirus Disease 2019 Vaccination Attestation, Screening Testing, and Vaccination Verification",
     "Subject": "Provides guidance on the implementation of vaccination, attestation, and testing requirements to reduce the transmission of the virus that causes COVID-19.",
     "IssuanceDate": "11/03/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/11/03/DHA-PM-21-004"
   },
   {
     "PubID": 91,
@@ -816,7 +816,7 @@
     "Title": "Capital Investment Decision Model",
     "Subject": "Establishes DHA's procedures for the Capital Investment Decision Model.",
     "IssuanceDate": "10/23/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/23/DHA-AI-7100-01"
   },
   {
     "PubID": 92,
@@ -825,7 +825,7 @@
     "Title": "Medical Readiness Services Provided to Members of the Reserve Components (RC) in Military Medical Treatment Facilities (MTFs) and Dental Treatment Facilities (DTFs)",
     "Subject": "Procedures to establish guidance to provide medical readiness services, for RC Service members on duty other than active duty for a period of more than 30 days.",
     "IssuanceDate": "10/23/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/23/DHA-PI-6015-03"
   },
   {
     "PubID": 93,
@@ -834,7 +834,7 @@
     "Title": "Medical Devices and Equipment Requirements Management",
     "Subject": "Establishes DHA’s process to manage MDE requirements for the DHA Medical Logistics Enterprise.",
     "IssuanceDate": "10/18/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/18/DHA-PM-4000-02"
   },
   {
     "PubID": 94,
@@ -843,7 +843,7 @@
     "Title": "MHS Prescription Drug Monitoring Program",
     "Subject": "Establishes DHA's procedures to utilize the Military Health System Prescription Drug Monitoring Program when prescribing and/or dispensing controlled substances.",
     "IssuanceDate": "10/15/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/15/DHA-PI-6010-02"
   },
   {
     "PubID": 95,
@@ -852,7 +852,7 @@
     "Title": "Healthcare Technology Management (HTM) Biomedical Equipment Program",
     "Subject": "Establishes standard DHA processes and procedures for covering HTM functions.",
     "IssuanceDate": "10/14/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/14/DHA-AI-6430-11"
   },
   {
     "PubID": 96,
@@ -861,7 +861,7 @@
     "Title": "Freight Management",
     "Subject": "Establishes DHA's procedures to prescribe policy and assign responsibilities for freight management to include DHA Transportation Account Code management.",
     "IssuanceDate": "10/14/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/14/DHA-PM-6430-07"
   },
   {
     "PubID": 97,
@@ -870,7 +870,7 @@
     "Title": "Reimbursement of Research Related Expenses for Clinical Investigations in Military Medical Treatment Facilities",
     "Subject": "Establishes DHA’s procedures for reimbursement of research-related expenses for clinical investigations in military hospitals and clinics.",
     "IssuanceDate": "10/05/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/05/DHA-TM-3200-01"
   },
   {
     "PubID": 98,
@@ -879,7 +879,7 @@
     "Title": "Shelf-Life Extension Program (SLEP)",
     "Subject": "Establishes DHA's procedures to manage and provide guidance on the SLEP within the Military Health System and contingency operations.",
     "IssuanceDate": "10/05/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2023/03/10/DHA-PM-6430-05"
   },
   {
     "PubID": 99,
@@ -888,7 +888,7 @@
     "Title": "Information Technology Infrastructure Service Delivery Management Program",
     "Subject": "Establishes DHA's procedures for requesting, managing, and delivering high quality Information Technology (IT) Infrastructure services.",
     "IssuanceDate": "10/05/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/05/DHA-PI-8000-01"
   },
   {
     "PubID": 100,
@@ -897,7 +897,7 @@
     "Title": "Property Accountability and Management of General Equipment (GE)",
     "Subject": "Establish accountability and management of all assigned GE to include medical devices.",
     "IssuanceDate": "10/04/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/04/DHA-AI-4000-01"
   },
   {
     "PubID": 101,
@@ -906,7 +906,7 @@
     "Title": "Sustainment Restoration and Modernization (SRM) Enterprise Project List (EPL)",
     "Subject": "Establishes DHA's procedures for developing a capital investment project prioritization list for DHA’s inventory of real property assets.",
     "IssuanceDate": "10/04/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/10/04/DHA-PI-410001"
   },
   {
     "PubID": 102,
@@ -915,7 +915,7 @@
     "Title": "Governance of the Military Health System Clinical Laboratories",
     "Subject": "Establishes DHA's procedures to govern clinical laboratories across the Military Health System.",
     "IssuanceDate": "09/20/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/09/20/DHA-PI-6440-01"
   },
   {
     "PubID": 103,
@@ -924,7 +924,7 @@
     "Title": "Routing of Applications for Health Care Eligibility Under the Secretarial Designee (SECDES) Program and Related Special Authorities",
     "Subject": "Establishes DHA's procedures in routing the SECDES application packages for military hospitals and clinics within DHA’s certified Markets.",
     "IssuanceDate": "09/14/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/09/14/DHA-AI-6025-01"
   },
   {
     "PubID": 104,
@@ -933,7 +933,7 @@
     "Title": "Normalization of Medical Devices and Equipment (MDE) and General Equipment",
     "Subject": "Establishes DHA's procedures to prescribe normalized device codes, nomenclature, and Accountable Property System of Record data points for MDE and General Equipment.",
     "IssuanceDate": "09/13/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/09/13/DHA-PI-414001"
   },
   {
     "PubID": 105,
@@ -942,7 +942,7 @@
     "Title": "Humane Slaughter of Animals in DOD Programs",
     "Subject": "Establishes DHA's procedures to provide guidance and describe procedures for the humane slaughter of animals in DOD survival training programs.",
     "IssuanceDate": "09/07/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/09/07/DHA-PI-6400-01"
   },
   {
     "PubID": 106,
@@ -951,7 +951,7 @@
     "Title": "Defense Health Program Internal Use Software",
     "Subject": "Establishes DHA's procedures for managing the Military Health System’s Internal Use Software (IUS).",
     "IssuanceDate": "09/07/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/09/07/DHA-AI-7040-01"
   },
   {
     "PubID": 107,
@@ -960,7 +960,7 @@
     "Title": "Joint Medical Executive Skills Program and Learning Continuum",
     "Subject": "Procedures to implement policy, assign responsibilities, and provide procedures for the implementation and management of the Joint Medical Executive Skills Program.",
     "IssuanceDate": "09/03/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/09/03/DHA-PI-6000-07"
   },
   {
     "PubID": 108,
@@ -969,7 +969,7 @@
     "Title": "Process and Procedures for Implementation of Standardized Dental Cone Beam Computed Tomography Operations and Training",
     "Subject": "Establishes DHA's  procedures for using standardized cone beam computed tomography at military dental treatment facilities.",
     "IssuanceDate": "08/26/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/08/26/DHA-PI-6410-03"
   },
   {
     "PubID": 109,
@@ -978,7 +978,7 @@
     "Title": "Medical Logistics Order Management",
     "Subject": "Establishes DHA's procedures for the effective order management of medical supplies.",
     "IssuanceDate": "08/25/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/08/25/DHA-PI-6430-08"
   },
   {
     "PubID": 110,
@@ -987,7 +987,7 @@
     "Title": "Medical Ethics in the Military Health System",
     "Subject": "Establishes standards for the implementation of the DOD Medical Ethics Program.",
     "IssuanceDate": "08/20/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/08/20/DHA-PI-6025-39"
   },
   {
     "PubID": 111,
@@ -996,7 +996,7 @@
     "Title": "Financial Management of Information Technology Systems and Services",
     "Subject": "Provides overarching guidance, implement procedures, and manage aspects of the Defense Health Program’s Financial Management of Information Technology Systems and Services.",
     "IssuanceDate": "08/02/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/08/02/DHA-PI-8400-02"
   },
   {
     "PubID": 112,
@@ -1005,7 +1005,7 @@
     "Title": "Course Development",
     "Subject": "Establishes DHA's procedures for development of curriculum and other course materials used to conduct and administer formal training programs within the DHA.",
     "IssuanceDate": "07/22/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/07/22/DHA-PM-1025-01"
   },
   {
     "PubID": 113,
@@ -1014,7 +1014,7 @@
     "Title": "Medical Logistics (MEDLOG) Regulated Medical Waste (RMW) Management",
     "Subject": "Establishes DHA's procedures to provide guidance and regulatory requirements for the management of RMW.",
     "IssuanceDate": "07/22/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/07/22/DHA-PM-6050-01"
   },
   {
     "PubID": 114,
@@ -1023,7 +1023,7 @@
     "Title": "Fleet Management",
     "Subject": "Establishes DHA's procedures to prescribe policy and assign responsibilities for the management, acquisition, and use of non-tactical vehicles.",
     "IssuanceDate": "07/09/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/07/09/DHA-PM-4500-01"
   },
   {
     "PubID": 115,
@@ -1032,7 +1032,7 @@
     "Title": "Medical Image Management Systems Support Office (MIMSO)",
     "Subject": "Establishes the DHA MIMSO within the DHA Medical Logistics Division.",
     "IssuanceDate": "07/08/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/07/08/DHA-PI-6430-05"
   },
   {
     "PubID": 116,
@@ -1041,7 +1041,7 @@
     "Title": "Patient Travel",
     "Subject": "Establishes DHA’s procedures to identify and delineate responsibilities associated with the reimbursement of patient travel.",
     "IssuanceDate": "07/06/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/07/06/DHA-PI-7000-01"
   },
   {
     "PubID": 117,
@@ -1050,7 +1050,7 @@
     "Title": "Operations Security (OPSEC) Program",
     "Subject": "Establishes DHA's procedures for the OPSEC Program.",
     "IssuanceDate": "07/01/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/07/01/DHA-AI-5200-03"
   },
   {
     "PubID": 118,
@@ -1059,7 +1059,7 @@
     "Title": "Prime Vendor Onsite Representative",
     "Subject": "Establishes DHA's procedures to request and activate the Medical Surgical Prime Vendor Onsite Representative service.",
     "IssuanceDate": "07/01/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/07/01/DHA-PI-6430-09"
   },
   {
     "PubID": 119,
@@ -1068,7 +1068,7 @@
     "Title": "Scientific Review of Clinical Investigations in Military Medical Treatment Facilities",
     "Subject": "Establishes DHA’s procedures for scientific review of clinical investigations and research within military hospitals and clinics.",
     "IssuanceDate": "07/01/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/07/01/DHA-TM-3200-02"
   },
   {
     "PubID": 120,
@@ -1077,7 +1077,7 @@
     "Title": "Medical Logistics Healthcare Environmental Cleaning Services Management",
     "Subject": "Establishes DHA's procedures to efficiently manage Medical Logistics (MEDLOG) Healthcare Environmental Cleaning services.",
     "IssuanceDate": "06/29/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/29/DHA-PM-6430-04"
   },
   {
     "PubID": 121,
@@ -1086,7 +1086,7 @@
     "Title": "Implementation Guidance for the Utilization of DD Form 3074, Canine Treatment and Resuscitation Record",
     "Subject": "Establishes DHA's procedures on the use of the DD Form 3074, Canine Treatment and Resuscitation Record for standardized and consistent documentation of a military working dog trauma injuries.",
     "IssuanceDate": "06/28/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/28/DHA-PI-6000-10"
   },
   {
     "PubID": 122,
@@ -1095,7 +1095,7 @@
     "Title": "Healthcare Benefit Eligibility Verification and Patient Registration Procedures",
     "Subject": "Establishes DHA's procedures for verifying eligibility, proper patient registration, and patient identity management.",
     "IssuanceDate": "06/24/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/24/DHA-PI-6010-01"
   },
   {
     "PubID": 123,
@@ -1104,7 +1104,7 @@
     "Title": "MHS GENESIS Resolution of Procedural Conflicts",
     "Subject": "Establishes DHA's responsibilities and procedures associated with resolving conflicts between legacy electronic health record systems and MHS GENESIS.",
     "IssuanceDate": "06/23/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/23/DHA-PI-6040-10"
   },
   {
     "PubID": 124,
@@ -1113,7 +1113,7 @@
     "Title": "Military Health System (MHS) Clinical Communities",
     "Subject": "Establishes DHA's procedures and requirements for operating the MHS Clinical Communities.",
     "IssuanceDate": "06/17/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/17/DHA-PI-6000-04"
   },
   {
     "PubID": 125,
@@ -1122,7 +1122,7 @@
     "Title": "Medical Logistics (MEDLOG) Linen Services Management",
     "Subject": "Establishes DHA's procedures to efficiently manage MEDLOG linen services.",
     "IssuanceDate": "06/16/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/16/DHA-PM-6430-02"
   },
   {
     "PubID": 126,
@@ -1131,7 +1131,7 @@
     "Title": "Guidance for Immediate Completion and Closure of Open Encounters and Records in Legacy Systems",
     "Subject": "Establishes DHA's procedures to complete and close open encounters within the legacy systems.",
     "IssuanceDate": "06/16/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/16/DHA-PI-6040-08"
   },
   {
     "PubID": 127,
@@ -1140,7 +1140,7 @@
     "Title": "Canine Tactical Combat Casualty Care (K9TCCC) Card",
     "Subject": "Procedures on the use of DD Form 3073 for standardized and consistent documentation of prehospital care by the Military Departments.",
     "IssuanceDate": "06/15/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/15/DHA-PI-6000-08"
   },
   {
     "PubID": 128,
@@ -1149,7 +1149,7 @@
     "Title": "Guidance for Immediate Completion and Closure of Open Encounters and Records in Legacy Systems",
     "Subject": "Establishes DHA's procedures to complete and close open encounters within the legacy systems to ensure completion of healthcare documentation.",
     "IssuanceDate": "06/14/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/14/DHA-PI-6040-08"
   },
   {
     "PubID": 129,
@@ -1158,7 +1158,7 @@
     "Title": "Scientific Review of Clinical Investigations in Military Medical Treatment Facilities",
     "Subject": "Establishes DHA’s procedures for scientific review of clinical investigations and research within DOD Military Medical Treatment Facilities",
     "IssuanceDate": "06/07/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/06/07/DHA-TM-3200-02"
   },
   {
     "PubID": 130,
@@ -1167,7 +1167,7 @@
     "Title": "Military Medical Treatment Facilities Annual Regulatory/Triennial Training Requirements",
     "Subject": "Establishes DHA's procedures to provide enterprise-wide training completion guidance to fulfill annual/triennial requirements of The Joint Commission and/or Occupational Safety and Health Administration requirements.",
     "IssuanceDate": "05/24/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/05/24/DHA-AI-1025-01"
   },
   {
     "PubID": 131,
@@ -1176,7 +1176,7 @@
     "Title": "Dental Universal Protocol",
     "Subject": "Establishes DHA's procedures for the Dental Universal Protocol policy.",
     "IssuanceDate": "05/21/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/05/21/DHA-PI-6410-02"
   },
   {
     "PubID": 132,
@@ -1185,7 +1185,7 @@
     "Title": "Medical Logistics Guidance for the DOD Coronavirus Disease 2019 (COVID-19) Vaccination Program",
     "Subject": "Establishes DHA’s procedures for ordering, receiving, and managing COVID-9 Vaccines inventory and ancillary kits for enduring COVID-19 support.",
     "IssuanceDate": "05/10/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/05/10/DHA-PI-6205-01"
   },
   {
     "PubID": 133,
@@ -1194,7 +1194,7 @@
     "Title": "Life Support Training Certification Requirements and Guidance",
     "Subject": "Establishes DHA's procedures for life support certification requirements.",
     "IssuanceDate": "05/06/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/05/06/DHA-PI-600003"
   },
   {
     "PubID": 134,
@@ -1203,7 +1203,7 @@
     "Title": "Service Treatment Record (STR) Digitization, Quality Assurance, and Destruction",
     "Subject": "Establishes DHA's procedures to retain, validate, and destroy hard-copy STRs previously digitized by Record Processing Centers or Central Cells.",
     "IssuanceDate": "05/05/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/05/05/DHA-PI-6040-09"
   },
   {
     "PubID": 135,
@@ -1212,7 +1212,7 @@
     "Title": "Dental Sedation Medical Management",
     "Subject": "Procedures to establish a multidisciplinary approach to dental patient care guided by evidence-based clinical practice guidelines for dental sedation pathways.",
     "IssuanceDate": "05/04/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/05/04/DHA-PI-6410-01"
   },
   {
     "PubID": 136,
@@ -1221,7 +1221,7 @@
     "Title": "Required Clinical Tools and Procedures for Assessment and Clinical Management of Mild Brain Injury (mTBI)/Concussion in Non-Deployed Setting",
     "Subject": "Establishes DHA's required clinical tools and procedures for management of mTBI/concussion.",
     "IssuanceDate": "04/26/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/04/26/DHA-PI-6490-04"
   },
   {
     "PubID": 137,
@@ -1230,7 +1230,7 @@
     "Title": "Notifications and Reports for Radiation Safety Unusual Occurrences at Military Medical Treatment Facilities",
     "Subject": "Establishes DHA's procedures for reporting and notification of radiation safety unusual occurrences under the Nuclear Regulatory Commission License 45-35423-01.",
     "IssuanceDate": "04/23/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/04/23/DHA-IPM-21-001"
   },
   {
     "PubID": 138,
@@ -1239,7 +1239,7 @@
     "Title": "TRICARE Prime Travel Benefit Program (PTB) and Combat-Related Disability Travel (CRDT) Program",
     "Subject": "Establishes DHA's procedures for the TRICARE PTB and CRDT programs.",
     "IssuanceDate": "04/21/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/04/21/DHA-PI-600005"
   },
   {
     "PubID": 139,
@@ -1248,7 +1248,7 @@
     "Title": "Beneficiary Counseling and Assistance Coordinator (BCAC) and Debt Collection Assistance Officer (DCAO)",
     "Subject": "Establishes DHA's procedures to implement the BCAC and DCAO programs.",
     "IssuanceDate": "04/12/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/04/12/DHA-PI-6015-02"
   },
   {
     "PubID": 140,
@@ -1257,7 +1257,7 @@
     "Title": "Foreign Travel Program",
     "Subject": "Establishes DHA's procedures to manage, develop, coordinate, and implement the Foreign Travel Program.",
     "IssuanceDate": "04/07/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/04/07/DHA-AI-5000-01"
   },
   {
     "PubID": 141,
@@ -1266,7 +1266,7 @@
     "Title": "Medical Coding of the DOD Health Record",
     "Subject": "Establishes DHA's procedures for centralized oversight and standardized operations to ensure accurate, effective, timely, and efficient coding of the DOD Health Record.",
     "IssuanceDate": "03/08/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/03/08/DHA-PI-6040-07"
   },
   {
     "PubID": 142,
@@ -1275,7 +1275,7 @@
     "Title": "DHA Video Network Center Endpoint Standards",
     "Subject": "Provides guidance for video network endpoint standards required for sites to connect to the DHA Video Network Center.",
     "IssuanceDate": "02/05/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/02/05/DHA-AI-8100-01"
   },
   {
     "PubID": 143,
@@ -1284,7 +1284,7 @@
     "Title": "Guidance for Implementation of the Postpartum Hemorrhage Bundle",
     "Subject": "Establishes DHA's procedures for standardization of emergency code, Code Purple, for obstetric (OB) and/or neonatal emergencies.",
     "IssuanceDate": "01/22/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/01/22/DHA-PI-6025-35"
   },
   {
     "PubID": 144,
@@ -1293,7 +1293,7 @@
     "Title": "Medical Logistics Materiel Quality Procedures",
     "Subject": "Implements policy, assigns roles, and responsibilities and provides the DHA’s procedures to establish standard medical logistics processes.",
     "IssuanceDate": "01/13/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/01/13/DHA-PM-6430-03"
   },
   {
     "PubID": 145,
@@ -1302,7 +1302,7 @@
     "Title": "Information Security Compliance for Defense Health Agency Financially Auditable Information Systems",
     "Subject": "Establishes responsibilities for financially auditable systems. It provides direction to implement DHA procedures that contribute to a clean financial audit for the DOD.",
     "IssuanceDate": "01/12/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/01/12/DHA-PI-8100-01"
   },
   {
     "PubID": 146,
@@ -1311,7 +1311,7 @@
     "Title": "Forms Management Program",
     "Subject": "Establishes DHA's procedures to manage and maintain the DHA Forms Management Program.",
     "IssuanceDate": "01/12/2021",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2021/01/12/DHA-AI-5010-01"
   },
   {
     "PubID": 147,
@@ -1320,7 +1320,7 @@
     "Title": "Restoration of Annual Leave",
     "Subject": "Announces procedures and guidelines for the administration of leave restoration.",
     "IssuanceDate": "12/30/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/12/30/DHA-PM-20-009"
   },
   {
     "PubID": 148,
@@ -1329,7 +1329,7 @@
     "Title": "Physical Security Controls at Department of Defense Military Medical Treatment Facilities",
     "Subject": "Outlines implementation of physical security controls at all military hospitals and clinics.",
     "IssuanceDate": "11/09/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/11/09/DHA-PM-20-006"
   },
   {
     "PubID": 149,
@@ -1338,7 +1338,7 @@
     "Title": "Return to the Workplace Staffing Plan in the Coronavirus Disease 2019 Environment",
     "Subject": "Establishes DHA's plan to return to full operations supporting the whole-of-government response during the COVID-19 pandemic.",
     "IssuanceDate": "11/03/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/11/03/DHA-AI-3020-01-Change-2"
   },
   {
     "PubID": 150,
@@ -1347,7 +1347,7 @@
     "Title": "Reasonable Accommodations",
     "Subject": "Establishes DHA's procedures, responsibilities, and guidance implementation for administering the Reasonable Accommodation program.",
     "IssuanceDate": "11/02/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/11/02/DHA-AI-1020-01"
   },
   {
     "PubID": 151,
@@ -1356,7 +1356,7 @@
     "Title": "Medical Assessment for Determination of Association between Medical Condition and Environmental, Safety and Health Issues in Housing Unit",
     "Subject": "Establishes DHA's procedures for the medical evaluation of individuals referred by a Military Department to determine the possibility that a specific medical condition was caused by unsafe and unsanitary conditions of a housing unit.",
     "IssuanceDate": "10/09/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/10/09/DHA-AI-6050-01"
   },
   {
     "PubID": 152,
@@ -1365,7 +1365,7 @@
     "Title": "Information Security Program",
     "Subject": "Establishes DHA's procedures for the Information Security Program.",
     "IssuanceDate": "10/06/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/10/06/DHA-AI-5200-02"
   },
   {
     "PubID": 153,
@@ -1374,7 +1374,7 @@
     "Title": "Combatant Command (CCMD) Trauma System (CTS)",
     "Subject": "Establishes DHA's procedures for translating funded research into standards of care.",
     "IssuanceDate": "09/08/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/09/08/DHA-PI-6040-06"
   },
   {
     "PubID": 154,
@@ -1383,7 +1383,7 @@
     "Title": "Medical Logistics (MEDLOG) Customer Support Teams (CST)",
     "Subject": "Establishes DHA's procedures to provide the DHA organizational Component Director and leadership.",
     "IssuanceDate": "08/31/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/08/31/DHA-AI-6430-06"
   },
   {
     "PubID": 155,
@@ -1392,7 +1392,7 @@
     "Title": "Defense Medical Logistics Standard Support – Facilities Management (DMLSS-FM): Volume 3, Room Inventory Module",
     "Subject": "Establishes DHA's procedures for managing data in DMLSS-FM.",
     "IssuanceDate": "08/27/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/08/27/DHA-TM-4165-01-Volume-3"
   },
   {
     "PubID": 156,
@@ -1401,7 +1401,7 @@
     "Title": "Guidance for the DOD Influenza Vaccination Program (IVP)",
     "Subject": "Implements instructions, responsibilities, prescribes procedures for the DOD Seasonal influenza vaccination program.",
     "IssuanceDate": "08/21/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/08/21/DHA-PI-6025-34"
   },
   {
     "PubID": 157,
@@ -1410,7 +1410,7 @@
     "Title": "Analytics and Evaluation (A&E)",
     "Subject": "Establishes DHA's procedures to enable a central A&E Division to act as a liaison between functional and technical stakeholders.",
     "IssuanceDate": "08/03/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/08/03/DHA-AI-3000-01"
   },
   {
     "PubID": 158,
@@ -1419,7 +1419,7 @@
     "Title": "Guidance for Conducting Surveys and Other Information Collections (SOICs)",
     "Subject": "Establishes a DHA Component Information Collection Program, policy, and procedures necessary to license SOIC.",
     "IssuanceDate": "07/04/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/07/04/DHA-AI-8900-01"
   },
   {
     "PubID": 159,
@@ -1428,7 +1428,7 @@
     "Title": "Enterprise Processes for Translating Defense Health Program (DHP) Funded Research into Standards of Clinical Trauma Care across the DOD",
     "Subject": "Establishes DHA's procedures for translating funded research into standards of care.",
     "IssuanceDate": "06/26/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/06/26/DHA-PI-6040-05"
   },
   {
     "PubID": 160,
@@ -1437,7 +1437,7 @@
     "Title": "Director’s Critical Information Requirements (DCIR), Situation Report (SITREP)",
     "Subject": "Establishes DHA's procedures to ensure timely and structured reporting of critical events in order to provide situational awareness and, where applicable, a coordinated response to support the decision cycle of the Director, DHA, and/or subordinate leaders.",
     "IssuanceDate": "06/08/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/06/08/DHA-PI-3700-01"
   },
   {
     "PubID": 161,
@@ -1446,7 +1446,7 @@
     "Title": "Memorandum for Defense Health Agency Staff – Military Medical Treatment Facilities to Implement Updated DHA COVID-19 Medical Coding Policy",
     "Subject": "Establishes DHA’s procedures to standardize the coding for Coronavirus 2019 at Military Medical Treatment Facilities.",
     "IssuanceDate": "05/13/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/05/13/DHA-Policy-Memo-20-003"
   },
   {
     "PubID": 162,
@@ -1455,7 +1455,7 @@
     "Title": "Military Health System (MHS) GENESIS Medical Device Guidance to Military Medical Treatment Facilities (MTFs)",
     "Subject": "Provides key stakeholders’ responsibilities for connecting medical devices to MHS GENESIS and establish clinical expectations for connecting medical devices to MHS. GENESIS.",
     "IssuanceDate": "03/16/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/03/16/DHA-PI-6025-23"
   },
   {
     "PubID": 163,
@@ -1464,7 +1464,7 @@
     "Title": "MHS GENESIS Medical Devices",
     "Subject": "Establishes DHA's procedures for using medical devices with MHS GENESIS.",
     "IssuanceDate": "03/16/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/03/16/DHA-PI-6025-32"
   },
   {
     "PubID": 164,
@@ -1473,7 +1473,7 @@
     "Title": "New Integrated Capabilities Portfolio (ICP)",
     "Subject": "Establishes DHA's procedures to ensure alignment of the ICP process with the National Military Strategy.",
     "IssuanceDate": "03/11/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/03/11/DHA-PI-502001"
   },
   {
     "PubID": 165,
@@ -1482,7 +1482,7 @@
     "Title": "Cybersecurity Logistics (CyberLOG) Medical Devices and Equipment (MDE) Risk Management Framework (RMF)",
     "Subject": "Establishes centralized processes to implement and maintain RMF authorization and cybersecurity for MDE across the MHS.",
     "IssuanceDate": "03/02/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/03/02/DHA-PI-8400-01"
   },
   {
     "PubID": 166,
@@ -1491,7 +1491,7 @@
     "Title": "Standard Processes and Procedures for Communication of Laboratory and Radiology Results",
     "Subject": "Provides procedures for implementing uniform accountability and business rules for communicating clinical laboratory and radiology results.",
     "IssuanceDate": "02/21/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-Center/DHA-Publications/2020/02/21/DHA-PI-6025-28"
   },
   {
     "PubID": 167,
@@ -1500,7 +1500,7 @@
     "Title": "Guidance for Amendment and Correction of Entries in Garrison Electronic Health Records (EHRs)",
     "Subject": "Establishes DHA's procedures to remove erroneously entered information in the EHRs.",
     "IssuanceDate": "02/21/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2020/02/21/DHA-PI-6040-04"
   },
   {
     "PubID": 168,
@@ -1509,7 +1509,7 @@
     "Title": "Acupuncture Practice in Military Treatment Facilities",
     "Subject": "Establishes DHA’s guidance for implementing tiered acupuncture training, privileging, and documentation supporting the clinical practice of acupuncture.",
     "IssuanceDate": "02/20/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2020/02/20/DHA-PI-6025-33"
   },
   {
     "PubID": 169,
@@ -1518,7 +1518,7 @@
     "Title": "Implementation of the Military Health System (MHS) Request Submissions Portal and Process",
     "Subject": "Establishes DHA's procedures to notify and instruct stakeholders of the new MHS Request Submissions Portal processes.",
     "IssuanceDate": "02/19/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2020/02/19/DHA-PI-500001"
   },
   {
     "PubID": 170,
@@ -1527,7 +1527,7 @@
     "Title": "Interim Guidance for Return-to-Stock Prescriptions",
     "Subject": "Establishes DHA's policy to remove personally identifiable information from all prescriptions that are returned to stock.",
     "IssuanceDate": "02/14/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2020/02/14/DHA-PM-20-001"
   },
   {
     "PubID": 171,
@@ -1536,7 +1536,7 @@
     "Title": "Records Management",
     "Subject": "Establishes program responsibilities and procedures for records management.",
     "IssuanceDate": "02/06/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2020/02/06/DHA-AI-5015-01"
   },
   {
     "PubID": 172,
@@ -1545,7 +1545,7 @@
     "Title": "Temporary Access to Classified Material",
     "Subject": "Establishes DHA’s procedures to provide cleared DOD personnel temporary access to classified information.",
     "IssuanceDate": "02/05/2020",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2020/02/05/DHA-AI-5200-01"
   },
   {
     "PubID": 173,
@@ -1554,7 +1554,7 @@
     "Title": "Use of Defense Medical Logistics Standard Support (DMLSS) as the Authoritative Information System of Record for Medical Logistics Enterprise Activity",
     "Subject": "Establishes use of the DMLSS System as the authoritative Information System.",
     "IssuanceDate": "12/20/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/12/20/DHA-PI-6430-04"
   },
   {
     "PubID": 174,
@@ -1563,7 +1563,7 @@
     "Title": "Provision of Human Immunodeficiency Virus (HIV) Pre-Exposure Prophylaxis (PrEP) for Persons at High Risk of Acquiring HIV Infection",
     "Subject": "Establishes the Military Health System's instructions for the provision of HIV PrEP for persons at high risk of HIV acquisition.",
     "IssuanceDate": "12/20/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/12/20/DHA-PI-6025-29"
   },
   {
     "PubID": 175,
@@ -1572,7 +1572,7 @@
     "Title": "Military Medical Treatment Facility Pharmacy Operations",
     "Subject": "Establishes DHA's procedures to implement standardized and efficient Military Medical Treatment Facility Pharmacy Operations.",
     "IssuanceDate": "12/20/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/12/20/DHA-PI-6025-31"
   },
   {
     "PubID": 176,
@@ -1581,7 +1581,7 @@
     "Title": "Primary Care Behavioral Health (PCBH) Standards",
     "Subject": "Establishes DHA's procedures to establish required standards for behavioral health care at military hospitals and clinics.",
     "IssuanceDate": "12/20/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/12/20/DHA-PM-6025-01"
   },
   {
     "PubID": 177,
@@ -1590,7 +1590,7 @@
     "Title": "Standard Processes, Guidelines, and Responsibilities of the DOD Patient Bill of Rights and Responsibilities in the Military Health System Military Medical Treatment Facilities",
     "Subject": "Establishes DHA's Patient’s Bill of Rights and Responsibilities in military hospitals and clinics.",
     "IssuanceDate": "12/20/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/12/20/DHA-PI-6025-10"
   },
   {
     "PubID": 178,
@@ -1599,7 +1599,7 @@
     "Title": "Deployment Health Procedures",
     "Subject": "Establishes DHA's procedures to implement and monitor the execution of the DOD deployment health activities.",
     "IssuanceDate": "12/17/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/12/17/DHA-PI-6490-03"
   },
   {
     "PubID": 179,
@@ -1608,7 +1608,7 @@
     "Title": "Guidance for Service Implementation of Code Purple for Obstetric Emergencies",
     "Subject": "Establishes DHA's procedures implementing the emergency code, Code Purple, for obstetric (OB) and/or neonatal emergencies.",
     "IssuanceDate": "12/09/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/12/09/DHA-PI-6025-30"
   },
   {
     "PubID": 180,
@@ -1617,7 +1617,7 @@
     "Title": "Safeguarding Procurement Sensitive Information",
     "Subject": "Implements DHA's procedures and practices for safeguarding procurement sensitive information.",
     "IssuanceDate": "12/03/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/12/03/DHA-110"
   },
   {
     "PubID": 181,
@@ -1626,7 +1626,7 @@
     "Title": "Integration of Primary Care Behavioral Health (PCBH) Services into Patient-Centered Medical Home (PCMH) and Other Primary Care Service Settings within the Military Health System (MHS)",
     "Subject": "Establishes DHA's procedures to assign responsibilities, and prescribes procedures and standards for Military Medical Treatment Facilities (MTFs) developing, initiating, and maintaining health behavior, behavioral medicine, and behavioral health services in adult and pediatric/adolescent primary care settings.",
     "IssuanceDate": "10/18/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/10/18/DHA-PI-6025-27"
   },
   {
     "PubID": 182,
@@ -1635,7 +1635,7 @@
     "Title": "Standard Processes for the Military Health System Nurse Advice Line",
     "Subject": "Establishes DHA's procedures for incorporating the NAL into the MHS Patient Centered Medical Home.",
     "IssuanceDate": "10/18/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/10/18/DHA-PI-6025-26"
   },
   {
     "PubID": 183,
@@ -1644,7 +1644,7 @@
     "Title": "Decision-Making Architecture (DMA)",
     "Subject": "Establishes a standardized process for the DHA DMA that enables effective and efficient decision-making across the DHA.",
     "IssuanceDate": "10/15/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/10/15/DHA-AI-109"
   },
   {
     "PubID": 184,
@@ -1653,7 +1653,7 @@
     "Title": "Clinical Quality Management in the Military Health System Volume 4: Credentialing and Privileging",
     "Subject": "Establishes DHA’s procedures to assign responsibilities and establish procedures for managing Clinical Quality Management in the Military Health System.",
     "IssuanceDate": "09/01/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/09/01/DHA-PM-6025-13-Volume-4"
   },
   {
     "PubID": 185,
@@ -1662,7 +1662,7 @@
     "Title": "Clinical Quality Management in the Military Health System, Volume 7",
     "Subject": "Establishes DHA’s procedures to assign responsibilities and establish procedures for managing Clinical Quality Management in the Military Health System.",
     "IssuanceDate": "09/01/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/09/01/DHA-PM-6025-13-Volume-7"
   },
   {
     "PubID": 186,
@@ -1671,7 +1671,7 @@
     "Title": "Clinical Quality Management in the Military Health System, Volume 2: Patient Safety",
     "Subject": "Establishes DHA’s procedures to assign responsibilities and establish procedures for managing Clinical Quality Management (CQM) in the MHS.",
     "IssuanceDate": "09/01/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/09/01/DHA-PM-6025-13-Volume-2"
   },
   {
     "PubID": 187,
@@ -1680,7 +1680,7 @@
     "Title": "Clinical Quality Management in the Military Health System, Volume 6: Clinical Measurement",
     "Subject": "Establishes DHA’s procedures to assign responsibilities and establish procedures for managing Clinical Quality Management in the Military Health System.",
     "IssuanceDate": "09/01/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/09/01/DHA-PM-6025-13-Volume-6"
   },
   {
     "PubID": 188,
@@ -1689,7 +1689,7 @@
     "Title": "Clinical Quality Management in the Military Health System, Volume 3: Healthcare Risk Management",
     "Subject": "Establishes DHA’s procedures to assign responsibilities and establish procedures for managing Clinical Quality Management in the Military Health System.",
     "IssuanceDate": "09/01/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/09/01/DHA-PM-6025-13-Volume-3"
   },
   {
     "PubID": 189,
@@ -1698,7 +1698,7 @@
     "Title": "Clinical Quality Management in the Military Health System Volume 5: Accreditation and Compliance",
     "Subject": "Establishes DHA’s procedures to assign responsibilities and establish procedures for managing Clinical Quality Management in the Military Health System.",
     "IssuanceDate": "09/01/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/09/01/DHA-PM-6025-13-Volume-5"
   },
   {
     "PubID": 190,
@@ -1707,7 +1707,7 @@
     "Title": "Clinical Quality Management in the Military Health System, Volume 1: General Clinical Quality Management",
     "Subject": "Establishes DHA’s procedures to assign responsibilities and establish procedures for managing Clinical Quality Management in the Military Health System.",
     "IssuanceDate": "08/29/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/29/DHA-PM-6025-13-Volume-1"
   },
   {
     "PubID": 191,
@@ -1716,7 +1716,7 @@
     "Title": "Organizational Inspection Program",
     "Subject": "Establishes DHA's procedures for the planning, preparation, coordination, and execution of the DHA OIP.",
     "IssuanceDate": "08/27/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/27/DHA-AI-106"
   },
   {
     "PubID": 192,
@@ -1725,7 +1725,7 @@
     "Title": "Office of Inspector General",
     "Subject": "Establishes DHA's functions and procedures for the OIG.",
     "IssuanceDate": "08/27/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/27/DHA-AI-88"
   },
   {
     "PubID": 193,
@@ -1734,7 +1734,7 @@
     "Title": "Medical Management (MM) Program within the Military Health System (MHS)",
     "Subject": "Establishes DHA's procedures for MM program requirements to support standard and integrated care management implementation.",
     "IssuanceDate": "08/27/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/27/DHA-PI-6025-20"
   },
   {
     "PubID": 194,
@@ -1743,7 +1743,7 @@
     "Title": "Joint Trauma Lexicon",
     "Subject": "Establishes DHA's procedures to develop a universally accepted, standardized Joint Trauma Lexicon.",
     "IssuanceDate": "08/21/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/21/DHA-PI-6040-03"
   },
   {
     "PubID": 195,
@@ -1752,7 +1752,7 @@
     "Title": "Population Health, Operation, and Integration across the Military Health System (MHS)",
     "Subject": "Procedures to oversee, manage, and administer population health management functions performed in alignment with military hospitals and clinics.",
     "IssuanceDate": "08/09/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/09/DHA-PI-6025-19"
   },
   {
     "PubID": 196,
@@ -1761,7 +1761,7 @@
     "Title": "Research and Development Enterprise Activity",
     "Subject": "Establishes DHA's procedures to manage and execute research activities across the enterprise.",
     "IssuanceDate": "08/09/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/09/DHA-PI-3200-01"
   },
   {
     "PubID": 197,
@@ -1770,7 +1770,7 @@
     "Title": "Non-Ionizing Radiation Safety",
     "Subject": "Establishes DHA's procedures for the safe use of nonionizing radiation, to include lasers, laser systems, and controlled radio frequency radiation sources within DHA’s facilities.",
     "IssuanceDate": "08/09/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/09/DHA-AI-108"
   },
   {
     "PubID": 198,
@@ -1779,7 +1779,7 @@
     "Title": "Military Awards",
     "Subject": "Establishes DHA's procedures regarding a standardized approach for nominating, considering, and distributing DOD and Joint Awards for military personnel.",
     "IssuanceDate": "08/02/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/02/DHA-AI-102"
   },
   {
     "PubID": 199,
@@ -1788,7 +1788,7 @@
     "Title": "Radiation Safety Program (RSP) and Radiation Safety Committee (RSC)",
     "Subject": "Establishes DHA's policy for the Radiation Safety Committee and for maintaining occupational radiation exposures.",
     "IssuanceDate": "08/01/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/08/01/DHA-AI-087"
   },
   {
     "PubID": 200,
@@ -1797,7 +1797,7 @@
     "Title": "Comprehensive Review of All Trauma-Related Death in the Deployed Setting",
     "Subject": "Establishes DHA's procedures to conduct a comprehensive review of all trauma-related deaths in the deployed setting.",
     "IssuanceDate": "07/29/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/07/29/DHA-AI-107"
   },
   {
     "PubID": 201,
@@ -1806,7 +1806,7 @@
     "Title": "Public Affairs (PA) and Strategic Communications",
     "Subject": "Establishes DHA's procedures for public affairs and the strategic communications reporting chain and approval authority.",
     "IssuanceDate": "07/15/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/07/15/DHA-PI-5400001"
   },
   {
     "PubID": 202,
@@ -1815,7 +1815,7 @@
     "Title": "inTransition Program",
     "Subject": "Establishes DHA's procedures for implementing the DOD inTransition Program.",
     "IssuanceDate": "07/12/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/07/12/DHA-PI-6490-01"
   },
   {
     "PubID": 203,
@@ -1824,7 +1824,7 @@
     "Title": "Military Medical Treatment Facility Retiree (and other eligible groups)-At-Cost Hearing Aid Program",
     "Subject": "Establishes common and uniform guidelines, standards, and procedures for all DOD MTFs providing hearing health services to beneficiaries through RACHAP.",
     "IssuanceDate": "07/12/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/07/12/DHA-PI-6025-12"
   },
   {
     "PubID": 204,
@@ -1833,7 +1833,7 @@
     "Title": "Quarterly/Annual Military Service Member Recognition Program",
     "Subject": "Establishes DHA's procedures for nominations and selections for the Quarterly/Annual Military Service Member Recognition Program.",
     "IssuanceDate": "07/03/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/07/03/DHA-AI-103"
   },
   {
     "PubID": 205,
@@ -1842,7 +1842,7 @@
     "Title": "Continuity Program",
     "Subject": "Establishes DHA's continuity program and planning guidance to ensure the effective continuation of DHA mission essential functions under all circumstances.",
     "IssuanceDate": "06/28/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/06/28/DHA-AI-104"
   },
   {
     "PubID": 206,
@@ -1851,7 +1851,7 @@
     "Title": "Technology Transfer (T2) Program",
     "Subject": "Establishes responsibilities, procedures, and guidance for the  DHA T2 program.",
     "IssuanceDate": "06/20/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/06/20/DHA-PI-320105"
   },
   {
     "PubID": 207,
@@ -1860,7 +1860,7 @@
     "Title": "Healthcare Resolutions, Disclosure, Clinical Conflict Management and Healthcare Provider (HCP) Resiliency and Support in the Military Health System (MHS)",
     "Subject": "Procedures to promulgate guidance, assign responsibilities, and prescribe procedures for the MHS Healthcare Resolutions Program.",
     "IssuanceDate": "06/18/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/06/18/DHA-PI-6025-17"
   },
   {
     "PubID": 208,
@@ -1869,7 +1869,7 @@
     "Title": "Animal Access to Facilities",
     "Subject": "Procedures to provide guidance for animal access to the DHA Facilities.",
     "IssuanceDate": "05/21/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/05/21/DHA-PI-6025-18"
   },
   {
     "PubID": 209,
@@ -1878,7 +1878,7 @@
     "Title": "Guidance for Manpower Program",
     "Subject": "Establishes DHA's procedures to understand and monitor baseline manpower requirements, request adjustments to manpower requirements and other activities with respect to manpower functions.",
     "IssuanceDate": "05/16/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/05/16/DHA-PI-110001"
   },
   {
     "PubID": 210,
@@ -1887,7 +1887,7 @@
     "Title": "Defense Health Program (DHP) System Inventory Management and Reporting",
     "Subject": "Establishes DHA's overarching guidance to implement the policies and procedures for the DHP-funded systems inventory management, registration, and reporting.",
     "IssuanceDate": "05/13/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/05/13/DHA-PI-8160-01"
   },
   {
     "PubID": 211,
@@ -1896,7 +1896,7 @@
     "Title": "Comprehensive Contraceptive Counseling and Access to the Full Range of Methods of Contraception",
     "Subject": "Establishes DHA's procedures for comprehensive standards on health care with respect to access to comprehensive contraceptive counseling and the full range of contraceptive methods.",
     "IssuanceDate": "05/13/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/05/13/DHA-PI-6200-02"
   },
   {
     "PubID": 212,
@@ -1905,7 +1905,7 @@
     "Title": "Management of Problematic Substance Use by DOD Personnel",
     "Subject": "Establishes DHA's procedures to assign responsibilities for problematic alcohol and drug use identification, diagnosis, and treatment for DOD military personnel.",
     "IssuanceDate": "04/16/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/04/16/DHA-PI-6025-15"
   },
   {
     "PubID": 213,
@@ -1914,7 +1914,7 @@
     "Title": "Conference Attendance Review and Approval Procedures",
     "Subject": "Establishes DHA's procedures to review and approve conference attendance ensuring responsible stewardship of taxpayer money consistent with the ability to manage professional development.",
     "IssuanceDate": "03/29/2019",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2019/03/29/DHA-AI-105"
   },
   {
     "PubID": 214,
@@ -1923,7 +1923,7 @@
     "Title": "Active Duty Service Member (ADSM) Erythrocyte Glucose-6-Phosphate Dehydrogenase (G6PD) Deficiency and Sickle Cell Trait (SCT) Screening",
     "Subject": "Establishes DHA's procedures to implement erythrocyte G6PD deficiency and SCT screening at the appropriate points.",
     "IssuanceDate": "12/06/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/12/06/DHA-PI-6025-14"
   },
   {
     "PubID": 215,
@@ -1932,7 +1932,7 @@
     "Title": "Processes and Standards for Primary Care Empanelment and Capacity in Medical Treatment Facilities",
     "Subject": "Establishes DHA's procedures to describe processes for calculating and adjusting primary care empanelment and empanelment capacity.",
     "IssuanceDate": "10/09/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/10/09/DHA-PI-6025-11"
   },
   {
     "PubID": 216,
@@ -1941,7 +1941,7 @@
     "Title": "Medical Expense and Performance Reporting System for Fixed Military Medical and Dental Treatment Facilities: Uniform Chart of Accounts",
     "Subject": "Establishes DHA's procedures to provide a uniform and standardized system of health care managerial cost accounting for the Military Health System and MEPRS.",
     "IssuanceDate": "09/27/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/09/27/DHA-PM-6010-13-Volume-2"
   },
   {
     "PubID": 217,
@@ -1950,7 +1950,7 @@
     "Title": "Medical Expense and Performance Reporting System for Fixed Military Medical and Dental Treatment Facilities: Business Rules",
     "Subject": "Establishes DHA's procedures to provide a uniform and standardized system of health care managerial cost accounting for the Military Health System and the MEPRS.",
     "IssuanceDate": "09/27/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/09/27/DHA-PM-6010-13-Volume-1"
   },
   {
     "PubID": 218,
@@ -1959,7 +1959,7 @@
     "Title": "Defense Medical Logistics Enterprise Activity",
     "Subject": "Provides instructions for implementing Defense Medical Logistics programs.",
     "IssuanceDate": "09/27/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/09/27/DHA-PI-6430-02"
   },
   {
     "PubID": 219,
@@ -1968,7 +1968,7 @@
     "Title": "Management Directed Inquiries of Employee Conduct",
     "Subject": "Establishes DHA's procedures for management directed inquiries of employee conduct.",
     "IssuanceDate": "09/14/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/09/14/DHA-AI-040"
   },
   {
     "PubID": 220,
@@ -1977,7 +1977,7 @@
     "Title": "Processing Procedures for Complaints Involving Discrimination in Military Health System (MHS) Health Programs and Activities",
     "Subject": "Establishes DHA's procedures to assess and respond to discrimination complaints.",
     "IssuanceDate": "09/14/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/09/14/DHA-AI-101"
   },
   {
     "PubID": 221,
@@ -1986,7 +1986,7 @@
     "Title": "Printer, Photocopier, and Facsimile (FAX) Transmission for Documents Containing Personally Identifiable Information (PII) and/or Protected Health Information (PHI)",
     "Subject": "Establishes DHA's procedures for printing, photocopying, and transmitting and/or receiving via FAX, documents that contain PII and/or PHI",
     "IssuanceDate": "09/06/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/09/06/DHA-AI-048"
   },
   {
     "PubID": 222,
@@ -1995,7 +1995,7 @@
     "Title": "Defense Medical Logistics Standard Support-Facilities Management: Volume 4: Facility Systems Inventory Module",
     "Subject": "Establishes DHA's procedures for managing data in the Military Health System’s Computer Aided Facility Management/Computerized Maintenance Management System of record, DMLSS-FM.",
     "IssuanceDate": "09/06/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/09/06/DHA-TM-4165-01-Volume-4"
   },
   {
     "PubID": 223,
@@ -2004,7 +2004,7 @@
     "Title": "Insider Threat Program",
     "Subject": "Establishes DHA's procedures to develop, coordinate, and implement an Insider Threat Program across the DHA.",
     "IssuanceDate": "09/06/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/09/06/DHA-AI-097"
   },
   {
     "PubID": 224,
@@ -2013,7 +2013,7 @@
     "Title": "Pharmacy Enterprise Activity",
     "Subject": "Procedures to exercise management responsibilities for Pharmacy Shared Service/EA functions in MHS.",
     "IssuanceDate": "08/14/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/08/14/DHA-PI-6025-08"
   },
   {
     "PubID": 225,
@@ -2022,7 +2022,7 @@
     "Title": "Acceptable Use of Defense Health Agency Information Technology",
     "Subject": "Establishes DHA's procedures for acceptable use of DHA IT by authorized and privileged users.",
     "IssuanceDate": "08/14/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/08/14/DHA-PI-8140-01"
   },
   {
     "PubID": 226,
@@ -2031,7 +2031,7 @@
     "Title": "Military Evaluations",
     "Subject": "Establishes DHA's procedures for evaluating the performance of military officers and enlisted personnel assigned to DHA.",
     "IssuanceDate": "07/23/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/07/23/DHA-AI-100"
   },
   {
     "PubID": 227,
@@ -2040,7 +2040,7 @@
     "Title": "Labor-Management Relations Program",
     "Subject": "Establishes DHA's procedures for the DHA Labor Management Relations Program.",
     "IssuanceDate": "07/23/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/07/23/DHA-AI-059"
   },
   {
     "PubID": 228,
@@ -2049,7 +2049,7 @@
     "Title": "Physical Security Program",
     "Subject": "Establishes DHA's procedures for the implementation of an agency-wide Physical Security Program.",
     "IssuanceDate": "07/23/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/07/23/DHA-AI-003"
   },
   {
     "PubID": 229,
@@ -2058,7 +2058,7 @@
     "Title": "Behavioral Health Treatment and Outcomes Monitoring",
     "Subject": "Establishes DHA's procedures for the collection and analysis of BH outcome data.",
     "IssuanceDate": "07/12/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/07/12/DHA-PI-6490-02"
   },
   {
     "PubID": 230,
@@ -2067,7 +2067,7 @@
     "Title": "Naloxone in the Military Treatment Facilities",
     "Subject": "Establishes DHA's procedures for prescribing and dispensing naloxone in military pharmacies.",
     "IssuanceDate": "06/19/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/06/19/DHA-PI-6025-07"
   },
   {
     "PubID": 231,
@@ -2076,7 +2076,7 @@
     "Title": "General Equipment Property",
     "Subject": "Establishes DHA's instructions on GE inventory requirements.",
     "IssuanceDate": "06/19/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/06/19/DHA-AI-94"
   },
   {
     "PubID": 232,
@@ -2085,7 +2085,7 @@
     "Title": "Systems Engineering",
     "Subject": "Establishes DHA's procedures to implement DOD SE policies for acquisition programs and their supporting projects.",
     "IssuanceDate": "05/24/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/05/24/DHA-AI-093"
   },
   {
     "PubID": 233,
@@ -2094,7 +2094,7 @@
     "Title": "Presidential Management Fellows Program Participation",
     "Subject": "Establishes DHA's procedures for participating in the PMF Program.",
     "IssuanceDate": "05/24/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/05/24/DHA-AI-095"
   },
   {
     "PubID": 234,
@@ -2103,7 +2103,7 @@
     "Title": "Probationary Period for Newly Appointed Managers and Supervisors",
     "Subject": "Establishes DHA's procedures of probationary periods to be served by newly appointed to managerial or supervisory positions.",
     "IssuanceDate": "05/24/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/05/24/DHA-AI-055"
   },
   {
     "PubID": 235,
@@ -2112,7 +2112,7 @@
     "Title": "Disciplinary and Adverse Actions",
     "Subject": "Establishes DHA's procedures for taking disciplinary and adverse actions.",
     "IssuanceDate": "05/24/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/05/24/DHA-AI-029"
   },
   {
     "PubID": 236,
@@ -2121,7 +2121,7 @@
     "Title": "Military Joint Personnel Accountability Reporting System",
     "Subject": "Establishes DHA's procedures for the Military JPARS for DHA Headquarters personnel.",
     "IssuanceDate": "05/24/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/05/24/DHA-AI-099"
   },
   {
     "PubID": 237,
@@ -2130,7 +2130,7 @@
     "Title": "Standardized Templates for Primary Care Clinical Encounter Documentation",
     "Subject": "Establishes DHA's procedures for all military hospitals and clinics providing health care services in the direct care system.",
     "IssuanceDate": "05/16/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/05/16/DHA-PI-6025-06"
   },
   {
     "PubID": 238,
@@ -2139,7 +2139,7 @@
     "Title": "Force Health Protection Quality Assurance Program",
     "Subject": "Establishes the procedures for the FHPQA Program.",
     "IssuanceDate": "05/02/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/05/02/DHA-PI-6200-05"
   },
   {
     "PubID": 239,
@@ -2148,7 +2148,7 @@
     "Title": "Medical Coding of DOD Health Records",
     "Subject": "Cancelled and replaced by DHA-PI 6040.07: Medical Coding of the DOD Health Record",
     "IssuanceDate": "04/15/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/04/15/DHA-IPM-18-016"
   },
   {
     "PubID": 240,
@@ -2157,7 +2157,7 @@
     "Title": "Policy Memorandum for Defense Health Agency Staff - Civilian Defense Performance Management and Appraisal Program for Fiscal Year 2018",
     "Subject": "Establishes DHA's procedures to reissue, cancel, and update TRICARE Management Activity Administration Instruction Number 30, \"TRICARE Management Activity Performance Appraisal Program for General Schedule, Federal Wage System, and Certain Other Employees.\"",
     "IssuanceDate": "03/04/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/03/04/DHA-Policy-Memo-18-001"
   },
   {
     "PubID": 241,
@@ -2166,7 +2166,7 @@
     "Title": "Military Health System (MHS) Drug Take Back (DTB) Program",
     "Subject": "Procedures for MHS organizations to offer beneficiaries the option of returning their controlled and non-controlled medications for disposal.",
     "IssuanceDate": "02/20/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/02/20/DHA-PI-6025-25"
   },
   {
     "PubID": 242,
@@ -2175,7 +2175,7 @@
     "Title": "Defense Medical Logistics Standard Support – Facilities Management (DMLSS-FM): Requirements Module",
     "Subject": "Establishes DHA's procedures for managing data in the Military Health System’s Computer Aided Facility Management/Computerized Maintenance Management System of record, DMLSS-FM.",
     "IssuanceDate": "02/20/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/02/20/DHA-TM-4165-01-Volume-2"
   },
   {
     "PubID": 243,
@@ -2184,7 +2184,7 @@
     "Title": "Standard Processes and Criteria for Establishing Urgent Care (UC) Services and Expanded Hours and Appointment Availability in Primary Care in Medical Treatment Facilities (MTFs) to Support an Integrated Health Care System (IHCS)",
     "Subject": "Describes standard processes and criteria for the establishment of UC services and expanded hours and appointment availability in primary care in military hospitals and clinics.",
     "IssuanceDate": "01/30/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/01/30/DHA-PI-6025-03"
   },
   {
     "PubID": 244,
@@ -2193,7 +2193,7 @@
     "Title": "Crisis Action Team",
     "Subject": "Establishes DHA's procedures to provide the Director, DHA, and MHS Leadership with situational awareness during periods of increased operational tempo.",
     "IssuanceDate": "01/19/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/01/19/DHA-AI-096"
   },
   {
     "PubID": 245,
@@ -2202,7 +2202,7 @@
     "Title": "Defense Performance Management and Appraisal Program (DPMAP) Instructions for Fiscal Year 2018",
     "Subject": "Provides detailed guidance related to performance management and appraisal of DHA civilian employees.",
     "IssuanceDate": "01/01/2018",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2018/01/01/DHA-Policy-Memo-18-001"
   },
   {
     "PubID": 246,
@@ -2211,7 +2211,7 @@
     "Title": "Defense Readiness Reporting System",
     "Subject": "Establishes DHA's procedures to implement the policy and procedures of the DOD DRRS.",
     "IssuanceDate": "11/22/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/11/22/DAH-AI-092"
   },
   {
     "PubID": 247,
@@ -2220,7 +2220,7 @@
     "Title": "Accounting of Disclosures of Personally Identifiable Information and Protected Health Information",
     "Subject": "Establishes DHA's procedures for accounting of disclosures of PII and PHI.",
     "IssuanceDate": "11/03/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/11/03/DHA-AI-050"
   },
   {
     "PubID": 248,
@@ -2229,7 +2229,7 @@
     "Title": "Industry Partnership Network Program",
     "Subject": "Establishes DHA's procedures regarding the DHA IPN Program.",
     "IssuanceDate": "11/03/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/11/03/DHA-AI-090"
   },
   {
     "PubID": 249,
@@ -2238,7 +2238,7 @@
     "Title": "Military Medical Treatment Facility Uniform Business Office Operations",
     "Subject": "Establishes DHA's procedures to provide guidelines for the operation of MTF UBOs and prescribes procedures for the Third Party Collections, Medical Services Account, and Medical Affirmative Claims programs.",
     "IssuanceDate": "10/24/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/10/24/DHA-PM-6015-01"
   },
   {
     "PubID": 250,
@@ -2247,7 +2247,7 @@
     "Title": "Sharing of Beneficiary Health Care Data through the Virtual Lifetime Electronic Record Health Information Exchange Initiative",
     "Subject": "Establishes DHA's procedures to implement DOD policy, assigns responsibilities, and provides instructions for extending the VLER HIE Initiative",
     "IssuanceDate": "08/14/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/08/14/DHA-PI-6040-02"
   },
   {
     "PubID": 251,
@@ -2256,7 +2256,7 @@
     "Title": "Defense Medical Logistics Standard Support-Facilities Management - Volume 1, Facilities Inventory Module",
     "Subject": "Establishes DHA's procedures for managing data in the MMHS Computer Aided Facility Management/Computerized Maintenance Management System.",
     "IssuanceDate": "07/10/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/07/10/DHA-TM-4165-01-Volume-1"
   },
   {
     "PubID": 252,
@@ -2265,7 +2265,7 @@
     "Title": "Real Property Asset Management",
     "Subject": "Establishes DHA's procedures for managing the MHS Real Property Inventory.",
     "IssuanceDate": "06/22/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/06/22/DHA-PI-416501"
   },
   {
     "PubID": 253,
@@ -2274,7 +2274,7 @@
     "Title": "Civil Liberties Program",
     "Subject": "Establishes DHA's procedures for the DHA Civil Liberties Program.",
     "IssuanceDate": "06/14/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/06/14/DHA-AI-064"
   },
   {
     "PubID": 254,
@@ -2283,7 +2283,7 @@
     "Title": "Nondiscrimination in Military Health System (MHS) Health Programs and Activities",
     "Subject": "Establishes procedures to implement statutory nondiscrimination requirements applicable to federally assisted and conducted health programs.",
     "IssuanceDate": "06/09/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/06/09/DHA-PI-6025-02"
   },
   {
     "PubID": 255,
@@ -2292,7 +2292,7 @@
     "Title": "Periodic Health Assessment (PHA) Program",
     "Subject": "Establishes DHA's procedures for annual PHAs in Active Duty and Reserve Components of the DOD.",
     "IssuanceDate": "05/09/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/05/09/DHA-PI-6200-06"
   },
   {
     "PubID": 256,
@@ -2301,7 +2301,7 @@
     "Title": "Electronic Health Record Utilization and Work Flow Standardization in the National Capital Region Medical Directorate",
     "Subject": "Establishes DHA's procedures to require strict compliance applicable Service guidance.",
     "IssuanceDate": "05/09/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/05/09/DHA-AI-89"
   },
   {
     "PubID": 257,
@@ -2310,7 +2310,7 @@
     "Title": "Health Education and Training Electronic Learning Product Development and Sustainment",
     "Subject": "Establishes DHA's processes and procedures for development and sustainment of health education and training eLearning products.",
     "IssuanceDate": "02/16/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/02/16/DHA-PI-102501"
   },
   {
     "PubID": 258,
@@ -2319,7 +2319,7 @@
     "Title": "Implementation Guidance for the Utilization of DD Form 1380, Tactical Combat Casualty Care (TCCC) Card, June 2014",
     "Subject": "Provides procedures on the use of specified forms for standardized and consistency of prehospital care.",
     "IssuanceDate": "01/20/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/01/20/DHA-PI-6040-01"
   },
   {
     "PubID": 259,
@@ -2328,7 +2328,7 @@
     "Title": "E-mail Address Certificates on Common Access Cards (CACs)",
     "Subject": "Establishes DHA's procedures for complying with the assignment of organization e-mail addresses.",
     "IssuanceDate": "01/06/2017",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2017/01/06/DHA-AI-86"
   },
   {
     "PubID": 260,
@@ -2337,7 +2337,7 @@
     "Title": "Implementing the American College of Surgeons National Surgical Quality Improvement Program across the Military Health System (MHS)",
     "Subject": "Establishes uniform guidelines, standards, and procedures for all military hospitals and clinics to implement the surgical quality and reporting guidelines developed by ACS NSQIP, and DOD procedural requirements.",
     "IssuanceDate": "12/08/2016",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2016/12/08/DHA-PI-6025-01"
   },
   {
     "PubID": 261,
@@ -2346,7 +2346,7 @@
     "Title": "Personal Services Contracts for Health Care Providers",
     "Subject": "Establishes DHA’s procedures for implementing the authority for PSCs for HCPs.",
     "IssuanceDate": "10/11/2016",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2016/10/11/DHA-PI-6025-05"
   },
   {
     "PubID": 262,
@@ -2355,7 +2355,7 @@
     "Title": "Defense Health Program Common Cost Accounting Structure Guidance",
     "Subject": "Establishes common structure and accounting practices for the budgetary and cost accounting fields.",
     "IssuanceDate": "04/29/2016",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2016/04/29/DHA-TM--7220-01"
   },
   {
     "PubID": 263,
@@ -2364,7 +2364,7 @@
     "Title": "Regulatory Reviews of Research Studies",
     "Subject": "Establishes DHA's procedures by which the Privacy and Civil Liberties Office (DHA Privacy Office) will delegate regulatory compliance reviews of research studies.",
     "IssuanceDate": "04/01/2016",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2016/04/01/DHA-AI-083"
   },
   {
     "PubID": 264,
@@ -2373,7 +2373,7 @@
     "Title": "Incident Response Team (iRT) and Breach Response Requirements",
     "Subject": "Establishes responsibilities, processes, and procedures for individuals and supervisors responsible for assessing and responding to a confirmed or suspected breach that occurs within the DHA.",
     "IssuanceDate": "09/15/2015",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2015/09/15/DHA-AI-071"
   },
   {
     "PubID": 265,
@@ -2382,7 +2382,7 @@
     "Title": "Security Categorization (SC) and Control Selection for Information Technology",
     "Subject": "Establishes DHA’s procedures for the SC and Control Selection for DHA IT.",
     "IssuanceDate": "05/28/2015",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2015/05/28/DHA-AI-77"
   },
   {
     "PubID": 266,
@@ -2391,7 +2391,7 @@
     "Title": "Purchase and Distribution of Challenge Coins",
     "Subject": "Establishes DHA’s procedures for purchasing, distributing, and documenting DHA challenge coin awards.",
     "IssuanceDate": "01/07/2015",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2015/01/07/DHA-AI-12"
   },
   {
     "PubID": 267,
@@ -2400,6 +2400,6 @@
     "Title": "Drug-Free Workplace Program",
     "Subject": "Establishes DHA's objectives, policies, procedures, and implementation guidelines supporting the implementation and management of a DHA Drug Free Program.",
     "IssuanceDate": "01/01/2015",
-    "IssueURL": ""
+    "IssueURL": "https://www.health.mil/Reference-CenterDHA-Publications/2015/01/01/DHA-AI-034"
   }
 ]
